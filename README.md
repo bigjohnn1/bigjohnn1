@@ -63,8 +63,11 @@ I build multi-tenant B2B SaaS products that are fast, well-optimized, and clean 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bigjohnn1&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigjohnn1&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img src="https://streak-stats.demolab.com?user=bigjohnn1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bigjohnn1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph">
 </p>
 
 ---
