@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://benjamintomanik.me"><img src="https://img.shields.io/badge/Website-benjamintomanik.me-0b5cff?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/tomanik/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/benjamin-tomaník-622404346/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Based%20in-Czechia%20🇨🇿-555?style=flat-square" alt="Czechia">
 </p>
 
