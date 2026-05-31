@@ -14,7 +14,6 @@ I build multi-tenant B2B SaaS products that are fast, well-optimized, and clean 
 ### 🚀 Currently Building
 
 - **[Topiqu](https://github.com/Topiqu)** — Multi-tenant B2B SaaS blogging tool. Your company blog on autopilot, with automated article writing and AI author setups.
-- **MasterMe** — Bilingual platform connecting therapists and clients.
 
 ### 🧪 Recent Projects
 
