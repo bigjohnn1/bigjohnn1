@@ -43,9 +43,10 @@ I build multi-tenant B2B SaaS products that are fast, well-optimized, and clean 
 
 **Infra**
 <p>
-  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/Dokploy-111827?style=flat-square" alt="Dokploy">
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3">
 </p>
 
 **Secondary**
